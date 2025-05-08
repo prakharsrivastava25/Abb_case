@@ -1,5 +1,6 @@
 1. EDA & Feature Engineering Notebook
    File: Abb_case_study_prakhar_finalSubmission.ipynb and abb_case_Prakhar_finalSubmission.py
+
    Includes data loading, preprocessing, EDA, feature engineering and model building.
     
       Missing value treatment for Item_Weight and Outlet_Size
@@ -12,7 +13,7 @@
       
       Scaling and PCA with variance retention check
     
-2. Modeling Notebook
+3. Modeling Notebook
      
     Linear Regression (baseline RMSE)
     
@@ -23,9 +24,10 @@
     Stacked model approach (documented as less effective)
 
 
-3. Approach Note
+4. Approach Note
 
   Problem Solving Approach:
+    
     Started with Exploratory Data Analysis to understand variable distributions and relationships.
     
     Performed missing value imputation and created a new feature Outlet_Age.
@@ -43,4 +45,5 @@
     Final submission was made using the model with the lowest RMSE.
 
 4. Screenshot of Best Rank & Score
+5. 
 ![abb_case_rank_screenshot](https://github.com/user-attachments/assets/bb982f32-50e1-4984-8859-1c8c703e93f7)
