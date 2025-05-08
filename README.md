@@ -1,6 +1,6 @@
 1. EDA & Feature Engineering Notebook
-   File: Abb_case_study_prakhar.ipynb and abb_case_Prakhar_finalSubmission.py
-    Includes data loading, preprocessing, EDA, feature engineering and model building.
+   File: Abb_case_study_prakhar_finalSubmission.ipynb and abb_case_Prakhar_finalSubmission.py
+   Includes data loading, preprocessing, EDA, feature engineering and model building.
     
       Missing value treatment for Item_Weight and Outlet_Size
       
@@ -12,7 +12,7 @@
       
       Scaling and PCA with variance retention check
     
-2. Modeling Notebook
+3. Modeling Notebook
      
     Linear Regression (baseline RMSE)
     
