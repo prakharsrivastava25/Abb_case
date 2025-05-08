@@ -45,5 +45,5 @@
     Final submission was made using the model with the lowest RMSE.
 
 4. Screenshot of Best Rank & Score
-5. 
+ 
 ![abb_case_rank_screenshot](https://github.com/user-attachments/assets/bb982f32-50e1-4984-8859-1c8c703e93f7)
