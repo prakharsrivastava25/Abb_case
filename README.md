@@ -12,7 +12,7 @@
       
       Scaling and PCA with variance retention check
     
-3. Modeling Notebook
+2. Modeling Notebook
      
     Linear Regression (baseline RMSE)
     
@@ -23,7 +23,7 @@
     Stacked model approach (documented as less effective)
 
 
-4. Approach Note
+3. Approach Note
 
   Problem Solving Approach:
     Started with Exploratory Data Analysis to understand variable distributions and relationships.
@@ -42,5 +42,5 @@
     
     Final submission was made using the model with the lowest RMSE.
 
-5. Screenshot of Best Rank & Score
+4. Screenshot of Best Rank & Score
 ![abb_case_rank_screenshot](https://github.com/user-attachments/assets/bb982f32-50e1-4984-8859-1c8c703e93f7)
